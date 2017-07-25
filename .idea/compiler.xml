@@ -12,8 +12,10 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
+
       <module name="maven_study" target="1.8" />
       <module name="w1" target="1.8" />
+
     </bytecodeTargetLevel>
   </component>
 </project>
